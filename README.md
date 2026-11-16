@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--benassuly-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-benassuly)
 
-I build generative AI and machine learning systems that hold up under evaluation: RAG, multi-agent workflows and causal ML, grounded in real data, measured against ground truth, with the costs and failure modes stated. Open to data science, applied AI and forward deployed engineering roles, and to freelance projects.
+I build generative AI and machine learning systems (RAG, multi-agent workflows, causal ML) that hold up under evaluation: grounded in real data, measured against ground truth, with the costs and failure modes stated. Open to data science, applied AI and forward deployed engineering roles, and to freelance projects.
 
 #### Selected projects
 
